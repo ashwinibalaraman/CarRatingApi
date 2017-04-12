@@ -6,7 +6,7 @@ REST APIs for CRUD (Create, Read, Update, Delete) operations of Cars and their R
 
 Steps to run the application:
 
-1.	Navigate to the project directory: TeslaCarApi
+1.	Navigate to the project directory: CarRatingApi
 
 2.	Build the jar:
 ./gradlew build
